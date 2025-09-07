@@ -40,9 +40,11 @@ Las herramientas utilizadas fueron draw.io para diagramación y la notación de 
 ## 📈 Diagramas finales entregados
 - **C1 (Contexto):**  
 ![Diagrama C1](c1-contexto-Macondo.png)  
+[📄 Versión PDF](./c1-contexto-Macondo.pdf)
 
 - **C2 (Contenedores):**  
-![Diagrama C2](c2-contenedores-Macondo.png)  
+![Diagrama C2](c2-contenedores-Macondo.png) 
+[📄 Versión PDF](./c2-contenedores-Macondo.pdf) 
 
 ## 📋 Tabla de actores, entidades o componentes
 
